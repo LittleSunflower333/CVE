@@ -6,13 +6,15 @@
 
 ## 披露清单
 
-| ID | Product | Version | Vulnerability | CWE | Advisory | Status | CVE | Reported | Disclosed |
-|----|---------|---------|---------------|-----|----------|--------|-----|----------|-----------|
-| 001 | Halo | 2.27.1 | Memory-exhaustion DoS（解压炸弹） | CWE-409 | [GHSA-hcj6-mhw8-938h](https://github.com/halo-dev/halo/security/advisories/GHSA-hcj6-mhw8-938h) | submitted | — | 2026-11-12 | — |
-| 002 | Halo | 2.27.1 | Blind SSRF | CWE-918 | [GHSA-94m5-342v-85pq](https://github.com/halo-dev/halo/security/advisories/GHSA-94m5-342v-85pq) | submitted | — | 2026-11-12 | — |
-| 003 | Halo | 2.27.1 | 敏感信息泄露 | CWE-522 | [GHSA-9m7h-m333-p7vx](https://github.com/halo-dev/halo/security/advisories/GHSA-9m7h-m333-p7vx) | submitted | — | 2026-11-12 | — |
-| 004 | Halo | 2.27.1 | 2FA（TOTP）绕过 | CWE-287 | [GHSA-g64v-27v6-xgwx](https://github.com/halo-dev/halo/security/advisories/GHSA-g64v-27v6-xgwx) | submitted | — | 2026-11-12 | — |
-| 005 | Halo | 2.27.1 | 权限提升 | CWE-269 | [GHSA-7rpg-j9w3-hcx7](https://github.com/halo-dev/halo/security/advisories/GHSA-7rpg-j9w3-hcx7) | submitted | — | 2026-11-11 | — |
+### Halo `2.27.1`
+
+| ID | Vulnerability | CWE | Advisory | Status | CVE | Reported | Disclosed |
+|----|---------------|-----|----------|--------|-----|----------|-----------|
+| 001 | Memory-exhaustion DoS（解压炸弹） | CWE-409 | [GHSA-hcj6-mhw8-938h](https://github.com/halo-dev/halo/security/advisories/GHSA-hcj6-mhw8-938h) | submitted | — | 2026-11-12 | — |
+| 002 | Blind SSRF | CWE-918 | [GHSA-94m5-342v-85pq](https://github.com/halo-dev/halo/security/advisories/GHSA-94m5-342v-85pq) | submitted | — | 2026-11-12 | — |
+| 003 | 敏感信息泄露 | CWE-522 | [GHSA-9m7h-m333-p7vx](https://github.com/halo-dev/halo/security/advisories/GHSA-9m7h-m333-p7vx) | submitted | — | 2026-11-12 | — |
+| 004 | 2FA（TOTP）绕过 | CWE-287 | [GHSA-g64v-27v6-xgwx](https://github.com/halo-dev/halo/security/advisories/GHSA-g64v-27v6-xgwx) | submitted | — | 2026-11-12 | — |
+| 005 | 权限提升 | CWE-269 | [GHSA-7rpg-j9w3-hcx7](https://github.com/halo-dev/halo/security/advisories/GHSA-7rpg-j9w3-hcx7) | submitted | — | 2026-11-11 | — |
 
 ## 状态说明
 
