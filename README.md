@@ -32,6 +32,18 @@
 | 006 | Stored XSS（未认证 HTML 上传） | CWE-79 | 5.0.0–5.1.2 | [#197](https://github.com/JPressProjects/jpress/issues/197) | submitted | — | 2026-11-05 | — |
 | 007 | Path Traversal（头像路径读取） | CWE-22 | 1.0-rc.7–5.1.2 | [#198](https://github.com/JPressProjects/jpress/issues/198) | submitted | — | 2026-11-06 | — |
 
+### RuoYi AI
+
+> 🔒 以下 GHSA 链接在官方 advisory 发布前打开会显示 404（还未公开），发布后即可访问。
+
+| ID | Reference |
+|----|-----------|
+| 008 | [GHSA-4jpr-7hw8-52fq](https://github.com/ageerle/ruoyi-ai/security/advisories/GHSA-4jpr-7hw8-52fq) |
+| 009 | [GHSA-4fpm-jcjw-wcr5](https://github.com/ageerle/ruoyi-ai/security/advisories/GHSA-4fpm-jcjw-wcr5) |
+| 010 | [GHSA-64x4-w6hr-c384](https://github.com/ageerle/ruoyi-ai/security/advisories/GHSA-64x4-w6hr-c384) |
+| 011 | [GHSA-9x66-jw4c-wh9f](https://github.com/ageerle/ruoyi-ai/security/advisories/GHSA-9x66-jw4c-wh9f) |
+| 012 | [GHSA-f7p4-vg88-25m2](https://github.com/ageerle/ruoyi-ai/security/advisories/GHSA-f7p4-vg88-25m2) |
+
 ## 状态说明
 
 - `submitted` — 已上报，等维护者响应（私密 advisory 或公开 issue）
