@@ -8,7 +8,15 @@
 
 ### Halo
 
-> 🔒 未公开：以下 GHSA 链接在官方 advisory 发布前打开会显示 404（还未公开），发布后即可访问。
+#### 已公开
+
+| ID | Vulnerability | CWE | Affected | Patched | Severity | CVE | Reference | Reported | Disclosed |
+|----|---------------|-----|----------|---------|----------|-----|-----------|----------|-----------|
+| 005 | Privilege Escalation to Super Admin via JSON Patch Cross-Type Resource Overwrite | CWE-863 | ≥ 2.17.0, ≤ 2.27.2 | 2.27.3 | High (8.8) | pending | [GHSA-7rpg-j9w3-hcx7](https://github.com/halo-dev/halo/security/advisories/GHSA-7rpg-j9w3-hcx7) | 2026-11-11 | 2026-11-14 |
+
+#### 未公开
+
+> 🔒 以下 GHSA 链接在官方 advisory 发布前打开会显示 404（还未公开），发布后即可访问。
 
 | ID | Reference |
 |----|-----------|
@@ -16,7 +24,6 @@
 | 002 | [GHSA-94m5-342v-85pq](https://github.com/halo-dev/halo/security/advisories/GHSA-94m5-342v-85pq) |
 | 003 | [GHSA-9m7h-m333-p7vx](https://github.com/halo-dev/halo/security/advisories/GHSA-9m7h-m333-p7vx) |
 | 004 | [GHSA-g64v-27v6-xgwx](https://github.com/halo-dev/halo/security/advisories/GHSA-g64v-27v6-xgwx) |
-| 005 | [GHSA-7rpg-j9w3-hcx7](https://github.com/halo-dev/halo/security/advisories/GHSA-7rpg-j9w3-hcx7) |
 
 ### JPress
 
